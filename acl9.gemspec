@@ -16,7 +16,7 @@ Gem::Specification.new do |s|
   s.version           = Acl9::VERSION
   s.license           = 'MIT'
 
-  s.required_ruby_version = ">= 2"
+  #s.required_ruby_version = ">= 2"
 
   s.rdoc_options      = ["--charset=UTF-8"]
 
